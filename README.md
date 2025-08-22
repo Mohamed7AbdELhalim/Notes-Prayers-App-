@@ -1,5 +1,5 @@
-
 <div dir=rtl>
+
 # Notes-Prayers-App-
 تطبيق بسيط للملاحظات 
 
